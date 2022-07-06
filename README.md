@@ -7,6 +7,10 @@ Python micontroller program built by Felix Hildebrandt as final thesis for IoT i
 ## Description
 The project is built to connect a Micro Controller to the Ropsten Testnetwork Blockchain of Ethereum. The Controller is tied to a LED and it's state can be locked or changed by sending a transaction to the Smart Contract of the Blockchain. The Micro Controller is scraping the current state by default and turns the LED on or off if needed. Those status updates can not only be received within the Micro Controller's  terminal, but also worldwide if the Mosquitto Protocol is enabled by the owner.
 
+## Program Schedule
+
+![Program Schedule](./img/PAP_mit.png)
+
 ## Contributors
  - Solidity and Debugging: [Tim Käbisch](https://github.com/timkaebisch)
  - External Documentation: Konstantin Schwemlein
