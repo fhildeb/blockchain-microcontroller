@@ -17,14 +17,11 @@ The project is built to connect a Micro Controller to the Ropsten Testnetwork Bl
 
 ## Tools
 
-[Zerynth](https://www.zerynth.com/downloads/)
-
-[Mosquitto](https://mosquitto.org/)
-
-[Infura](https://infura.io/)
-
+- [Zerynth](https://www.zerynth.com/downloads/)
+- [Mosquitto](https://mosquitto.org/)
+- [Infura](https://infura.io/)
+- [Wireshark](https://www.wireshark.org/)
 ## Hardware
 
-[ESP32-DevKitC](https://www.espressif.com/en/products/devkits/esp32-devkitc/overview)
-
-[Thingy-52](https://www.nordicsemi.com/Products/Development-hardware/Nordic-Thingy-52)
+- [ESP32-DevKitC](https://www.espressif.com/en/products/devkits/esp32-devkitc/overview)
+- [Thingy-52](https://www.nordicsemi.com/Products/Development-hardware/Nordic-Thingy-52)
