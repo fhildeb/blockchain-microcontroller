@@ -8,8 +8,8 @@ DEVICE_NAME = 'Actor-1'
 PIN_LED = 13
 
 # WLAN-Access
-WIFI_SSID = 'Pings Landing'
-WIFI_PASSWORD = '1WillN3verDi55apointYou!'
+WIFI_SSID = 'my_wifi_name'
+WIFI_PASSWORD = 'my_wifi_password'
 WIFI_CONNECTING = 'Trying to connect to WiFi...'
 WIFI_CONNECTED = 'WiFi connected.'
 
@@ -65,7 +65,7 @@ CONTRACT_METHODS = {
 GAS_PRICE = "0x174876e800"
 
 # Infura-RPC-URL
-RPC_URL = 'https://ropsten.infura.io/v3/65fc4a530add4638957756e5ee4991ed'
+RPC_URL = 'my_infura_rpc'
 
 # SSL Certificate
 CA_CERT = """-----BEGIN CERTIFICATE----- 
